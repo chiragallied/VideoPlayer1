@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_bcb4f13dafac23bb089718ed48247061edac646b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_23e7a3460585d507ffb45eb369d51ae6c5bc16d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_72097a9015f34a6026e330d0340cd84cddb9fad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_0d4dfffc1f948f6a5239701023a802bdde7d903e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5e2f33c23c9502a59c54ed24c74d541bc46601ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_b23a744fafcfa921fa1cd8648963d376345ffd5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_473a385a1ba1894e7c588bcda8736a12c0ed1826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_1c33a027ccc951e824f26c02efbfa2126c0d8e6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_41419a2861f6ef3b6b8184050dff6e965181bd10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_16ad582af97945c9d53e710df7680d0bf7d749d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_48839e2eda0b10fe305a5590fb3f1f533310e954.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="F:\New Project\Download Code\VideoPlayer1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_42d448243e339a94c076d3b289f248f96e2b7b90.jar" />
+    </item>
+
+</items>
